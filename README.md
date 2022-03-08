@@ -15,5 +15,9 @@ Quizlet Version 3:
 
 These are the different types of Quizlet applications I created. 
 
+Pokemon name Translator:
+- I also created a Pokemon name translator. The names of 50 pokemon are translated from (french to english) and (english to french). 
+
+These are all of the applications found in this repository.
 
 No copyright intended. All brands belong to their respective owners.
