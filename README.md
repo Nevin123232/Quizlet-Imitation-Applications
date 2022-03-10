@@ -13,7 +13,7 @@ Quizlet Version 2:
 Quizlet Version 3:
 - In quizlet version 3, I attempted to combine the two (a user interface and logic for filing flashcards) in visual basic. This resulted in the prototype Quizlet version 3. 
 
-Pokemon name Translator:
+Pokemon Name Translator:
 - I also created a Pokemon name translator. The names of 50 pokemon are translated from (french to english) and (english to french). 
 
 These are all of the applications found in this repository.
